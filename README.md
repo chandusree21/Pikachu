@@ -28,14 +28,18 @@ c. ece
 * Contribute  
 * Collaborate  
 ------------------------------------
+
 ### To insert image
 ![pika](https://www.whats-on-netflix.com/wp-content/uploads/2019/05/Pokemon-Detective-Pikachu-Netflix.jpg)
 :heart_eyes:
 -----------------------------------------
+
 ### To insert link
 [Github link](https://github.com/chandusree21)
 ---------------------------------------
+
 ### To insert a table
+
 |Movie|Genre|Actor|
 |---------------|--------|---------|
 |Master|Action|Vijay|
