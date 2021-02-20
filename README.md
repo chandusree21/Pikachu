@@ -37,7 +37,7 @@ c. ece
 ---------------------------------------
 ### To insert a table
 |Movie|Genre|Actor|
-|------------------------------|---------------|-----------------------|
+|---------------|--------|---------|
 |Master|Action|Vijay|
 |Panja|Action|PK|
-|Hello|Love|Akhil|
+|Hello|Romantic|Akhil|
